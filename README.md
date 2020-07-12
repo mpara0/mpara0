@@ -1,4 +1,4 @@
-### Hi, I'm Monica 👋 
+### Hi, I'm Monika 👋 
 
 <!--
 **mpara0/mpara0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,3 +11,4 @@ Currently, I serve as an **Instructor Assistant at Kode with Klossy** where I he
 
 I have experience with **Git, Google App Engine, Web Development, and Android Studio**
 
+Fun Fact: I have a tendency to spell my name with either a C or K - legally speaking, it's spelled with a C. I've only used to spell my name with a K for anything "Polish-affiliated" such as 	🇵🇱 school and anything relating to the Polish-Democracy (my name is spelled with a K on my Polish Passport) but now I mixed it interchangeably 
