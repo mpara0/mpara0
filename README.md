@@ -11,4 +11,4 @@ Currently, I serve as an **Instructor Assistant at Kode with Klossy** where I he
 
 I have experience with **Git, Google App Engine, Web Development, and Android Studio**
 
-**Fun Fact:** I have a tendency to spell my name with either a C or K - legally speaking, it's spelled with a C. I've only used to spell my name with a K for anything "Polish-affiliated" such as 	🇵🇱 school and ties with Poland (my name is spelled with a K on my Polish Passport). I used to hate spelling my name with a K, but I like to use it interchangeably for fun. It's interesting to say the least
+
