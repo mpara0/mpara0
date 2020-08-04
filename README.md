@@ -7,7 +7,7 @@
 
 * 👩‍💻 Web Development Instructor at Kode With Klossy 
 
-🧠 Learning ReactJS and Figma
+* 🧠 Learning ReactJS and Figma
 
 * 🛠️ Git, Github, Web Development and Android Studio
 
