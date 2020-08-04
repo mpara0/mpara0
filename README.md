@@ -5,7 +5,7 @@
 -->
 *  💻 Student, Designer, and Occasional Writer for [intern.club](https://medium.com/intern-club) and [TechTogether](https://medium.com/techtogether)
 
-* 👩‍💻 Web Development Instructor at [Kode With Klossy](https://www.kodewithklossy.com/)
+* 👩‍💻 Web Development Instructor Assistant at [Kode With Klossy](https://www.kodewithklossy.com/)
 
 * 🧠 Learning ReactJS and Figma
 
