@@ -8,7 +8,6 @@ Hello, welcome to my Github!
 Currently:
 * Junior studying Computer Science + Advertising at the University of Illinios
 * Interested in UI/UX Design, Web Development, Algorithmic Advertising, and Program Management
-* Incoming CS124 Head Course Staff
-
+* Updating my profiles
 
 
